@@ -28,3 +28,8 @@ what would be harder?
     The easier part it's that I can do some changes to de project if i just made
     a copy. But the harder part its collaborate and merge the project if that is
     many content.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+    The chance to look the changes and think its right or not.
