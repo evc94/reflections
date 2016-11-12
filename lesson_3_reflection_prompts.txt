@@ -21,3 +21,10 @@ stored locally?
 
     That way, we have the chance if we dont have the last know on other devices
     to pull that.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+    The easier part it's that I can do some changes to de project if i just made
+    a copy. But the harder part its collaborate and merge the project if that is
+    many content.
