@@ -1,4 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work
+local?
 
     When i'll have to work on another station or with another people.
 
@@ -14,3 +15,9 @@ one instead of another?
     Only can fork in GitHub of one repository to one account.
     Clones can be done local and remote
     Branches work local doing commits on versions "exp"
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    That way, we have the chance if we dont have the last know on other devices
+    to pull that.
